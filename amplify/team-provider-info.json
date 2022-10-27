@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vrscenery-dev-175659-authRole",
+      "UnauthRoleArn": "arn:aws:iam::930460692359:role/amplify-vrscenery-dev-175659-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::930460692359:role/amplify-vrscenery-dev-175659-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vrscenery-dev-175659-deployment",
+      "UnauthRoleName": "amplify-vrscenery-dev-175659-unauthRole",
+      "StackName": "amplify-vrscenery-dev-175659",
+      "StackId": "arn:aws:cloudformation:us-east-1:930460692359:stack/amplify-vrscenery-dev-175659/fec49e30-560f-11ed-a588-0aa7e50de2db",
+      "AmplifyAppId": "d24xpz4ymcai2g"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
